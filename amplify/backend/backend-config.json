@@ -24,11 +24,5 @@
 			"dependsOn": [],
 			"customAuth": false
 		}
-	},
-	"storage": {
-		"tiktokclone": {
-			"service": "S3",
-			"providerPlugin": "awscloudformation"
-		}
 	}
 }
